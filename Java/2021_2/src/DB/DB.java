@@ -20,8 +20,7 @@ public class DB {
 	}
 
 	public static void DBC() throws SQLException {
-		con = DriverManager.getConnection("jdbc:mysql://localhost/?serverTimezone=UTC&allowLoadLocalInfile = true",
-				"root", "1234");
+		con = DriverManager.getConnection("jdbc:mysql://localhost/?serverTimezone=UTC&allowLoadLocalInfile = true", "root", "1234");
 		stmt = con.createStatement();
 	}
 
