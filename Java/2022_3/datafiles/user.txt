@@ -1,0 +1,21 @@
+u_no	u_name	u_id	u_pw	u_birth	u_email	u_gender	u_graduate	u_address	u_img
+1	이솔	job01	job0001!	1991-12-29	sol123@naver.com	2	1	제주 서귀포시 대포로 32-10	
+2	한찬희	job02	job0002!	1984-05-03	chanhee111@gmail.com	2	1	강원 양구군 해안면 땅굴로 142-60	
+3	구신순	job03	job0003!	1985-08-27	shinsoon00@empal.com	1	0	강원 강릉시 옥계면 평촌길 20-8	
+4	이준후	job04	job0004!	1996-02-04	junhoo123@nate.com	2	0	경기 수원시 장안구 상률로 32	
+5	서병주	job05	job0005!	2002-05-14	byeongju001@hanmail.net	1	1	경기 안산시 단원구 육도안길 9-4	
+6	박진구	job06	job0006!	1994-06-13	jingoo321@naver.com	1	0	경기 가평군 설악면 한양부로 89	
+7	김정선	job07	job0007!	2001-06-14	jeongseon100@yahoo.com	2	2	전북 김제시 황산면 높은메길 158-12	
+8	신준섭	job08	job0008!	2002-04-18	junseop777@kebi.com	1	2	강원 원주시 무실로55번길 37	
+9	고영손	job09	job0009!	1996-09-23	youngson0101@korea.com	2	1	대구 남구 대경길 267	
+10	양종한	job10	job0010!	1987-11-23	jonghan52@empal.com	1	1	충남 예산군 삽교읍 다락로 23	
+11	공유	job11	job0011!	1979-07-10	gongyoo233@gmail.com	1	0	부산 해운대구 좌동 1119	
+12	손예진	job12	job0012!	1982-01-11	yejin011@naver.com	2	2	강원 강릉시 왕산면 왕산리 산51	
+13	이병헌	job13	job0013!	1970-07-12	byunghun@nate.com	1	2	충북 청주시 서원구 현도면 죽전리 300-1	
+14	하지원	job14	job0014!	1978-06-28	jiwon877@hanmail.net	2	2	세종 금남면 영대리 산76-2	
+15	강민호	job15	job0015!	1985-08-18	minho909@yahoo.com	1	2	대전 중구 사정동 산6-12	
+16	마동석	job16	job0016!	1971-03-01	donlee012@empal.com	1	0	경남 합천군 봉산면 도곡리 541	
+17	김혜수	job17	job0017!	1970-09-05	hyesoo222@kebi.com	2	2	경북 영주시 부석면 상석리 202-4	
+18	아이유	job18	job0018!	1997-04-09	IU333@korea.com	2	0	서울 동작구 흑석동 221	
+19	이정재	job19	job0019!	2002-12-15	jungjae444@naver.com	1	1	서울 종로구 와룡동 2-1	
+20	전지현	job20	job0020!	1981-10-30	jihyun555@gmail.com	2	1	서울 강동구 암사동 267-13	
